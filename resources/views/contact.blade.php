@@ -92,19 +92,19 @@
                 <!-- Your content goes here -->
                 <h1 style="font-weight:700">Contactformulier</h1>
                 <span style="font-size:20px;">Laat hier je bericht achter, we nemen binnen 1 werkdag contact met je op.</span>
-                <form style="padding-top:5%">
-                    <!-- 2 column grid layout with text inputs for the first and last names -->
+                <form method="POST" action="/contact" style="padding-top:5%">
+                    @csrf
                     <div class="row mb-4">
                       <div class="col">
                         <div data-mdb-input-init class="form-outline">
-                          <input type="text" id="form3Example1" class="form-control" />
-                          <label class="form-label" for="form3Example1">Naam</label>
+                          <input type="text" id="" name="naam" class="form-control" />
+                          <label class="form-label" for="">Naam</label>
                         </div>
                       </div>
                       <div class="col">
                         <div data-mdb-input-init class="form-outline">
-                          <input type="text" id="form3Example2" class="form-control" />
-                          <label class="form-label" for="form3Example2">Telefoon</label>
+                          <input type="text" id="" name="telefoon" class="form-control" />
+                          <label class="form-label" for="">Telefoon</label>
                         </div>
                       </div>
                     </div>
@@ -112,22 +112,22 @@
                     <div class="row mb-4">
                         <div class="col">
                           <div data-mdb-input-init class="form-outline">
-                            <input type="text" id="form3Example1" class="form-control" />
-                            <label class="form-label" for="form3Example1">E-mail</label>
+                            <input type="text" id="" name="email" class="form-control" />
+                            <label class="form-label" for="">E-mail</label>
                           </div>
                         </div>
                         <div class="col">
                           <div data-mdb-input-init class="form-outline">
-                            <input type="text" id="form3Example2" class="form-control" />
-                            <label class="form-label" for="form3Example2">Onderwerp</label>
+                            <input type="text" id="" name="onderwerp" class="form-control" />
+                            <label class="form-label" for="">Onderwerp</label>
                           </div>
                         </div>
                     </div>
   
                   
                     <div data-mdb-input-init class="form-outline mb-4">
-                      <textarea id="form3Example3" class="form-control"></textarea>
-                      <label class="form-label" for="form3Example3">Bericht</label>
+                      <textarea id="" name="bericht" class="form-control"></textarea>
+                      <label class="form-label" for="">Bericht</label>
                     </div>
                   
                     <!-- Password input -->
@@ -137,7 +137,7 @@
                     </div>
                                     
                     <!-- Submit button -->
-                    <button data-mdb-ripple-init type="button" class="btn btn-primary btn-block mb-4">Verzenden</button>
+                    <button data-mdb-ripple-init type="submit" class="btn btn-block mb-4 text-light" style="background: linear-gradient(to right, #A74AC7, #45aaf2)">Verzenden</button>
                   
                   </form>            
                 </div>
@@ -147,35 +147,35 @@
 
 
 <div class="container">
-    <div class="row">
-        <div class="col-md-4">
+    <div class="row" style="padding-top:10%;padding-bottom:5%">
+        <div class="col-md-4" >
             <!-- Left Div -->
-            <div class="card">
-                <img src="https://via.placeholder.com/150" class="card-img-top rounded-circle mx-auto d-block" style="width: 150px; height: 150px;" alt="Left Image">
+            <div class=" shadow border border-primary rounded py-3">
+                <img src="https://www.biowritingservice.com/wp-content/themes/tuborg/images/Executive%20Bio%20Sample%20Photo.png" class="card-img-top rounded-circle mx-auto d-block" style="width: 150px; height: 150px;" alt="Left Image">
                 <div class="card-body text-center">
-                    <h2 class="card-title">Left Content</h2>
-                    <p class="card-text">This is the content for the left div.</p>
+                    <h2 class="card-title">Persoon A</h2>
+                    <p class="card-text">CEO</p>
                 </div>
             </div>
         </div>
         
         <div class="col-md-4">
             <!-- Middle Div -->
-            <div class="card">
-                <img src="https://via.placeholder.com/150" class="card-img-top rounded-circle mx-auto d-block" style="width: 150px; height: 150px;" alt="Middle Image">
+            <div class=" shadow border border-primary rounded py-3">
+                <img src="https://www.kieranjameswalker.com/wp-content/uploads/2016/07/person_sample_2-1.jpg" class="card-img-top rounded-circle mx-auto d-block" style="width: 150px; height: 150px;" alt="Middle Image">
                 <div class="card-body text-center">
-                    <h2 class="card-title">Middle Content</h2>
-                    <p class="card-text">This is the content for the middle div.</p>
+                    <h2 class="card-title">Persoon B</h2>
+                    <p class="card-text">CFO</p>
                 </div>
             </div>
         </div>
         <div class="col-md-4">
             <!-- Right Div -->
-            <div class="card">
-                <img src="https://via.placeholder.com/150" class="card-img-top rounded-circle mx-auto d-block" style="width: 150px; height: 150px;" alt="Right Image">
+            <div class=" shadow border border-primary rounded py-3">
+                <img src="https://uploads.themler.io/lp/images/07cd45756da79ba8cf3033fa3a6f017b_teamimg1.png" class="card-img-top rounded-circle mx-auto d-block" style="width: 150px; height: 150px;" alt="Right Image">
                 <div class="card-body text-center">
-                    <h2 class="card-title">Right Content</h2>
-                    <p class="card-text">This is the content for the right div.</p>
+                    <h2 class="card-title">Persoon C</h2>
+                    <p class="card-text">Designer</p>
                 </div>
             </div>
         </div>

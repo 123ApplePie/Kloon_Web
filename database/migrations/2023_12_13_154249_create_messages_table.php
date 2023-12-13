@@ -13,6 +13,12 @@ return new class extends Migration
     {
         Schema::create('messages', function (Blueprint $table) {
             $table->id();
+            $table->string('naam');
+            $table->bigInteger('telefoon')->nullable();
+            $table->string('email')->nullable();
+            $table->string('onderwerp');
+            $table->longText('bericht');
+            $table->string('file')->nullable();
             $table->timestamps();
         });
     }
