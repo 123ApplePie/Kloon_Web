@@ -22,25 +22,25 @@
       <div class="offcanvas-body d-flex flex-column flex-lg-row p-4 p-lg-0">
         <ul class="navbar-nav justify-content-center align-items-center flex-grow-1 pe-3" style="font-size: 18px;">
           <li class="nav-item mx-2">
-              <a class="nav-link active text-light" aria-current="page" style="font-weight:500" href="#">Websites</a>
+              <a class="nav-link" aria-current="page" style="font-weight:500" href="#">Websites</a>
           </li>
           <li class="nav-item mx-2">
-              <a class="nav-link active text-light" aria-current="page" style="font-weight:500" href="#">Webshops</a>
+              <a class="nav-link" aria-current="page" style="font-weight:500" href="#">Webshops</a>
           </li>
           <li class="nav-item mx-2">
-              <a class="nav-link active text-light" aria-current="page" style="font-weight:500" href="#">Online Marketing</a>
+              <a class="nav-link" aria-current="page" style="font-weight:500" href="#">Online Marketing</a>
           </li>
           <li class="nav-item mx-2">
-              <a class="nav-link text-light" style="font-weight:500" href="#">Portfolio</a>
+              <a class="nav-link" style="font-weight:500" href="#">Portfolio</a>
           </li>
           <li class="nav-item mx-2">
-              <a class="nav-link active text-light" aria-current="page" style="font-weight:500" href="#">Klantcases</a>
+              <a class="nav-link" aria-current="page" style="font-weight:500" href="#">Klantcases</a>
           </li>
           <li class="nav-item mx-2">
-            <a class="nav-link text-light" style="font-weight:500" href="#">Over Ons</a>
+            <a class="nav-link" style="font-weight:500" href="#">Over Ons</a>
           </li>
           <li class="nav-item mx-2">
-            <a class="nav-link text-light" style="font-weight:500" href="/contact">Contact</a>
+            <a class="nav-link" style="font-weight:500" href="/contact">Contact</a>
           </li>
         </ul>
         <div class="d-flex flex-column justify-content-center flex-lg-row align-items-center gap-3">

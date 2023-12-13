@@ -1,7 +1,10 @@
-body{
-    /* background: #000000; */
+.navbar-nav li a {
+    color: #ffffff; 
 }
 
+.navbar-nav li a:hover {
+    color: #A74AC7; 
+}
 /* Mobile view  */
 @media (max-width: 768px) {
         #nav {
