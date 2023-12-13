@@ -1,0 +1,38 @@
+body{
+    /* background: #000000; */
+}
+
+/* Mobile view  */
+@media (max-width: 768px) {
+        #nav {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+        .navbar-brand img{
+            width: 100%;
+        }
+    }
+
+@media(max-width: 991px) {
+    .sidebar{
+        background-color: rgba(255, 255, 255,0.15);
+        backdrop-filter: blur(10px);
+    }
+}
+
+    #offerte_btn:hover {
+        animation: gradientChange 2s infinite;
+    }
+
+    @keyframes gradientChange {
+        0% {
+            background: linear-gradient(to right, #A74AC7, #45aaf2);
+        }
+        50% {
+            background: linear-gradient(to right, #A74AC7, #A74AC7);
+        }
+        100% {
+            background: linear-gradient(to right, #A74AC7, #45aaf2);
+        }
+    }
