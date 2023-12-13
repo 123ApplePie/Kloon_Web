@@ -209,41 +209,6 @@
 </div>
 
 
-<div class="bg-dark" style="background-image: url('https://www.losning.nl/cache/243282222167993f2189adbc47434afd/6redenomictuittebestedenweb.jpg');background-repeat:no-repeat;background-size:cover;background-position:center">
-    <div class="container" style="padding-top:2%;padding-bottom:2%">
-        <div class="row">
-          <div class="col-md-6" style="visibility:hidden">
-            <div class="card">
-              <div class="card-body">
-                <!-- Content for the left column -->
-                <h5 class="card-title">Left Column</h5>
-                <p class="card-text">This is some content for the left column.</p>
-              </div>
-            </div>
-          </div>
-          <div class="col-md-6" style="visibility:hidden">
-            <div class="card">
-              <div class="card-body">
-                <!-- Content for the right column -->
-                <h5 class="card-title" style="font-size: 40px;font-weight:700">Laat je website maken door Experts</h5>
-                <p class="card-text" style="font-size: 22px;">
-                    <br>
-                    Onze professionals gaan geen uitdaging uit de weg. De afgelopen jaren hebben wij al meer dan 2500 websites gebouwd voor ruim 1800 tevreden klanten. Wil je ook door ons je website laten maken of wil je gewoon vrijblijvend advies? Wij informeren je graag.
-                    <br><br>
-                    Wij maken de website die bij jou past.
-                </p>
-
-                <button type="button" class="btn btn-warning d-flex">Offerte aanvragen
-                    <svg class="text-gray-800 dark:text-white" style="width: 5%" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                        <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                      </svg>
-                </button>
-
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-</div>
+<div class="bg-dark" style="background-image: url('https://www.losning.nl/cache/243282222167993f2189adbc47434afd/6redenomictuittebestedenweb.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center; height: 500px;"></div>
 
 @endsection

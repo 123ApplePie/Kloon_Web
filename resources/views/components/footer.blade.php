@@ -10,25 +10,21 @@
       <!-- Right -->
       <div>
         <a href="https://www.facebook.com" class="me-4 text-light">
-          <svg class="" style="width:3%;color:white" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 8 19">
-            <path fill-rule="evenodd" d="M6.135 3H8V0H6.135a4.147 4.147 0 0 0-4.142 4.142V6H0v3h2v9.938h3V9h2.021l.592-3H5V3.591A.6.6 0 0 1 5.592 3h.543Z" clip-rule="evenodd"/>
-          </svg>
+          <i class="fab fa-facebook"></i>
         </a>
         <a href="https://www.twitter.com" class="me-4 text-light">
-          <svg class="" aria-hidden="true" style="width:3%;color:white" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
-            <path fill="currentColor" d="M12.186 8.672 18.743.947h-2.927l-5.005 5.9-4.44-5.9H0l7.434 9.876-6.986 8.23h2.927l5.434-6.4 4.82 6.4H20L12.186 8.672Zm-2.267 2.671L8.544 9.515 3.2 2.42h2.2l4.312 5.719 1.375 1.828 5.731 7.613h-2.2l-4.699-6.237Z"/>
-          </svg>        
+          <i class="fab fa-twitter"></i>
         </a>
-        <a href="https://www.google.com" class="me-4 text-reset">
+        <a href="https://www.google.com" class="me-4 text-light">
             <i class="fab fa-google"></i>
         </a>
-        <a href="https://www.instagram.com" class="me-4 text-reset">
+        <a href="https://www.instagram.com" class="me-4 text-light">
             <i class="fab fa-instagram"></i>
         </a>
-        <a href="https://www.linkedin.com" class="me-4 text-reset">
+        <a href="https://www.linkedin.com" class="me-4 text-light">
             <i class="fab fa-linkedin"></i>
         </a>
-        <a href="https://www.github.com" class="me-4 text-reset">
+        <a href="https://www.github.com" class="me-4 text-light">
             <i class="fab fa-github"></i>
         </a>
     </div>
