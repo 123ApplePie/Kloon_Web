@@ -1,6 +1,6 @@
 <nav class="navbar navbar-expand-lg fixed-top" style="background-color: #000000">
   <div class="container" id="nav">
-    <a class="navbar-brand" style="width: 15%" href="#">
+    <a class="navbar-brand" style="width: 15%" href="/">
       <img src="/img/kloon_onl.png" style="width: 90%" alt="">
     </a>
     <button class="navbar-toggler shadow-none border-0 bg-light" type="button" data-bs-toggle="offcanvas" data-bs-target="#offcanvasNavbar" aria-controls="offcanvasNavbar" aria-label="Toggle navigation">
@@ -40,7 +40,7 @@
             <a class="nav-link text-light" style="font-weight:500" href="#">Over Ons</a>
           </li>
           <li class="nav-item mx-2">
-            <a class="nav-link text-light" style="font-weight:500" href="#">Contact</a>
+            <a class="nav-link text-light" style="font-weight:500" href="/contact">Contact</a>
           </li>
         </ul>
         <div class="d-flex flex-column justify-content-center flex-lg-row align-items-center gap-3">

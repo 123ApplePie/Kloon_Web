@@ -1,6 +1,7 @@
 <?php
 
 use Illuminate\Support\Facades\Route;
+use App\Http\Controllers\IndexController;
 
 /*
 |--------------------------------------------------------------------------
@@ -18,3 +19,4 @@ Route::get('/', function () {
 });
 
 Route::view('/test','test');
+Route::get('/contact',[IndexController::class,'contact'])->name('contact');
