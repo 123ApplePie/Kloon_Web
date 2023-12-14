@@ -26,7 +26,7 @@
             <div class="col-md-5">
                 <div class="card rounded-circle" style="width: 600px; height: 600px; overflow: hidden;">
                   <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                    <img src="/img/programmer.jpg" alt="Circle Image" class="img-fluid" style="width: 600px; height: 600px;">
+                    <img src="https://www.hu.nl/-/media/hu/afbeeldingen/opleidingen/features/voltijd/media-communicatie-en-it/hbo-ict-vt/20211112-hbo-ict-voltijd-t8a3915.ashx" alt="Circle Image" class="img-fluid" style="width: 600px; height: 600px;">
                 </div>              
               </div>
             </div>
@@ -337,7 +337,7 @@
             <div class="card-body">
                 <h3 class="" style="font-size: 40px; font-weight: 700">Persoonlijke offerte ontvangen?</h3>
 
-                <form method="POST" action="/contact" style="padding-top:5%">
+                <form method="POST" action="" style="padding-top:5%">
                     @csrf
                     <div data-mdb-input-init class="form-outline mb-4">
                         <input id="" name="bericht" class="form-control">
