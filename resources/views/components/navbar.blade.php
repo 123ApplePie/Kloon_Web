@@ -22,14 +22,35 @@
       <div class="offcanvas-body d-flex flex-column flex-lg-row p-4 p-lg-0">
         <ul class="navbar-nav justify-content-center align-items-center flex-grow-1 pe-3" style="font-size: 18px;">
           <li class="nav-item mx-2">
-              <a class="nav-link" aria-current="page" style="font-weight:500" href="#">Websites</a>
+              <a class="nav-link" aria-current="page" style="font-weight:500" href="/websites">Websites</a>
           </li>
           <li class="nav-item mx-2">
               <a class="nav-link" aria-current="page" style="font-weight:500" href="#">Webshops</a>
           </li>
-          <li class="nav-item mx-2">
-              <a class="nav-link" aria-current="page" style="font-weight:500" href="#">Online Marketing</a>
-          </li>
+          <li class="nav-item mx-2 dropdown">
+            <a class="nav-link dropdown-toggle" style="font-weight:500" href="#" id="onlineMarketingDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                Online Marketing
+            </a>
+            <ul class="dropdown-menu" aria-labelledby="onlineMarketingDropdown">
+              <div class="row">
+                  <div class="col">
+                      <li><a class="dropdown-item" href="#">Item 1</a></li>
+                      <li><a class="dropdown-item" href="#">Item 1</a></li>
+                      <li><a class="dropdown-item" href="#">Item 1</a></li>
+                  </div>
+                  <div class="col">
+                      <li><a class="dropdown-item" href="#">Item 2</a></li>
+                      <li><a class="dropdown-item" href="#">Item 2</a></li>
+                      <li><a class="dropdown-item" href="#">Item 2</a></li>
+                  </div>
+                  <div class="col">
+                      <li><a class="dropdown-item" href="#">Item 3</a></li>
+                      <li><a class="dropdown-item" href="#">Item 3</a></li>
+                      <li><a class="dropdown-item" href="#">Item 1</a></li>
+                  </div>
+              </div>
+            </ul>          
+          </li>          
           <li class="nav-item mx-2">
               <a class="nav-link" style="font-weight:500" href="#">Portfolio</a>
           </li>

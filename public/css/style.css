@@ -5,6 +5,24 @@
 .navbar-nav li a:hover {
     color: #A74AC7; 
 }
+
+.sub-menu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+}
+.sub-menu .row {
+    display: flex;
+    justify-content: space-between;
+}
+.sub-menu .col {
+    flex: 1;
+    padding: 10px; /* Adjust padding as needed */
+}        
 /* Mobile view  */
 @media (max-width: 768px) {
         #nav {

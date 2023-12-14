@@ -22,4 +22,8 @@ class IndexController extends Controller
 
         return redirect('/contact');
     }
+
+    public function websites() {
+        return view('websites');
+    }
 }

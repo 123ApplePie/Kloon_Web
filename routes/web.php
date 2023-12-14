@@ -21,3 +21,4 @@ Route::get('/', function () {
 Route::view('/test','test');
 Route::get('/contact',[IndexController::class,'contact'])->name('contact');
 Route::post('/contact',[IndexController::class,'AddMessage'])->name('AddMessage');
+Route::get('/websites',[IndexController::class,'websites'])->name('websites');
