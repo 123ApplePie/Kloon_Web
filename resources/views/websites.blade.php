@@ -199,6 +199,16 @@
                     <span style="color: #A74AC7;font-size:25px">Neem vrijblijvend contact op</span>
                     <br><br>
                     <p class="text-light" style="font-size: 20px">Wil je weten welk pakket voor jou geschikt is of heb je andere <br> vragen? Bel of mail ons gerust, we helpen je graag</p>
+                    
+                    <svg class="" style="width: 4%" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18">
+                        <path stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16.344 12.168-1.4-1.4a1.98 1.98 0 0 0-2.8 0l-.7.7a1.98 1.98 0 0 1-2.8 0l-2.1-2.1a1.98 1.98 0 0 1 0-2.8l.7-.7a1.981 1.981 0 0 0 0-2.8l-1.4-1.4a1.828 1.828 0 0 0-2.8 0C-.638 5.323 1.1 9.542 4.78 13.22c3.68 3.678 7.9 5.418 11.564 1.752a1.828 1.828 0 0 0 0-2.804Z"/>
+                    </svg>
+                   <span class="text-light" style="margin-left:10px;font-size:20px">1122334455</span> 
+
+                   <svg class="ms-5" style="width: 4%;" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 16">
+                    <path stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 2-8.4 7.05a1 1 0 0 1-1.2 0L1 2m18 0a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1m18 0v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2"/>
+                    </svg>
+                    <span class="text-light" style="margin-left:10px;font-size:20px">sales@kloonweb.com</span> 
                 </div>
             </div>
         </div>
@@ -233,7 +243,70 @@
 </div>
 
 
+<div>
+    <div class="container">
+        <div class="row" style="padding-top: 10%; padding-bottom: 5%">
+            <div class="col-md-4">
+                <div class="card-body">
+                    <h3 class="" style="font-size: 50px; font-weight: 700">Voorbeelden van recent geleverde websites</h3>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card-body">
+                    <div id="carouselExample" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                          <div class="carousel-item active">
+                            <img src="https://ontwerpvanwouter.nl/wp-content/uploads/2018/06/Webdesign_Huisartsenpraktijk_Lichtenberch_Utrecht_Ontwerp_Van_Wouter_Barneveld.jpg" class="d-block w-100" alt="Image 1">
+                          </div>
+                          <div class="carousel-item">
+                            <img src="https://ontwerpvanwouter.nl/wp-content/uploads/2017/09/Webdesign_Onderweegs_en_de_Groot_Ontwerp_Van_Wouter_Barneveld.jpg" class="d-block w-100" alt="Image 2">
+                          </div>
+                          <div class="carousel-item">
+                            <img src="https://ontwerpvanwouter.nl/wp-content/uploads/2017/09/Webdesign_De_Valk_Wekerom_Ontwerp_Van_Wouter_Barneveld.jpg" class="d-block w-100" alt="Image 3">
+                          </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
+                      </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card-body">
+                    <div id="carouselExample" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                          <div class="carousel-item active">
+                            <img src="https://ontwerpvanwouter.nl/wp-content/uploads/2017/09/Webdesign_Nautasign_Ontwerp_Van_Wouter_Barneveld.jpg" class="d-block w-100" alt="Image 1">
+                          </div>
+                          <div class="carousel-item">
+                            <img src="https://ckwebsitedesign.ie/wp-content/uploads/2021/09/ck-website-design-project-of-custom-website-design-homeschool-ireland.jpg" class="d-block w-100" alt="Image 2">
+                          </div>
+                          <div class="carousel-item">
+                            <img src="https://creativeteam.nl/wp-content/uploads/2019/02/kegcoah_transparant_2.png" class="d-block w-100" alt="Image 3">
+                          </div>
+                        </div>
+                        <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
+                      </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
 
+
+<div style="background-color: #DBE9FA">
 <div class="container">
     <div class="row" style="padding-top: 10%; padding-bottom: 5%">
         <div class="col-md-6">
@@ -320,6 +393,7 @@
             </div>
         </div>
     </div>
+</div>
 </div>
 
 <div class="bg-dark" style="background-image: url('https://www.losning.nl/cache/243282222167993f2189adbc47434afd/6redenomictuittebestedenweb.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center; height: 500px;"></div>

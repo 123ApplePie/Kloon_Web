@@ -23,6 +23,8 @@
     flex: 1;
     padding: 10px; /* Adjust padding as needed */
 }        
+
+
 /* Mobile view  */
 @media (max-width: 768px) {
         #nav {
