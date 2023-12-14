@@ -22,3 +22,4 @@ Route::view('/test','test');
 Route::get('/contact',[IndexController::class,'contact'])->name('contact');
 Route::post('/contact',[IndexController::class,'AddMessage'])->name('AddMessage');
 Route::get('/websites',[IndexController::class,'websites'])->name('websites');
+Route::get('/webshops',[IndexController::class,'webshops'])->name('webshops');

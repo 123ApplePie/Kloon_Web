@@ -3,7 +3,7 @@
 @section('title', 'Kloon Web - Websites')
 
 @section('content')
-<section class="bg-dark" style="margin-top: 3%; padding-top: 5%;">
+<div class="bg-dark" style="margin-top: 3%; padding-top: 5%;">
     <div class="container">
         <div class="row">
             <div class="col-md-7">
@@ -44,42 +44,77 @@
             </ul>
         </section>
     </div>
-  </section>
+</div>
   
 
   <div class="container mb-5">
     <div class="row">
         <div class="col-md-4">
             <h1 style="font-weight: 700">Basis</h1>
-            <div class="card h-100">
-                <div class="card-body">
+            <div class="card h-100 ">
+                <div class="card-body px-4 py-5 shadow border border-primary rounded " style="">
                     <h5 class="card-title" style="font-size: 30px;font-weight:500">
                         vanaf 899,-
                     </h5>
                     <br>
                     <p class="card-text" style="font-size: 22px;">Een succesvolle website hoeft niet ingewikkeld te zijn. Onze basiswebsite heeft al heel veel mogelijkheden. Jij levert je materialen aan en wij zetten het professioneel in jouw website.</p>
-                    <button type="button" class="my-4 btn btn-outline-primary btn-block" data-mdb-ripple-init>
-                        Meer over dit pakket
-                        <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </button>
-                    <button type="button" style="background: linear-gradient(to right, #A74AC7, #45aaf2)" class="btn btn-primary btn-block" data-mdb-ripple-init>
-                        Offerte aanvragen
-                        <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </button>
+                
+                    <div class="" style="margin-top: 50px">
+                        <button type="button" class="my-4 btn btn-outline-primary btn-block" data-mdb-ripple-init>
+                            Meer over dit pakket
+                            <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                            </svg>
+                        </button>
+                        <br>
+                        <button type="button" style="background: linear-gradient(to right, #A74AC7, #45aaf2)" class="btn btn-primary btn-block" data-mdb-ripple-init>
+                            Offerte aanvragen
+                            <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                            </svg>
+                        </button>
+                    </div>
+    
                 </div>
+
             </div>
         </div>
         <div class="col-md-4">
             <h1 style="font-weight: 700">Premium</h1>
             <div class="card h-100">
-                <div class="card-body" >
+                <div class="card-body px-4 py-5 shadow border border-primary rounded " >
                     <h5 class="card-title" style="font-size: 30px;font-weight:500">vanaf 1450,-</h5>
                     <br>
                     <p class="card-text" style="font-size: 22px;">Stel je hogere eisen aan je website? Wil je graag dat wij meedenken hoe je jouw website het beste voor je laat werken, zodat je meer conversie uit je website haalt? Onze premiumwebsite biedt alles wat jij zoekt in een website.</p>
+                
+                    <div class="mt-auto">
+                        <button type="button" class="my-4 btn btn-outline-primary btn-block" data-mdb-ripple-init>
+                            Meer over dit pakket
+                            <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                            </svg>
+                        </button>
+                        <br>
+                        <button type="button" style="background: linear-gradient(to right, #A74AC7, #45aaf2)" class="btn btn-primary btn-block" data-mdb-ripple-init>
+                            Offerte aanvragen
+                            <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                            </svg>
+                        </button>
+                    </div>
+    
+                </div>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h1 style="font-weight: 700">Maatwerk</h1>
+            <div class="card h-100">
+                <div class="card-body px-4 py-5 shadow border border-primary rounded" >
+                    <h5 class="card-title" style="font-size: 30px;font-weight:500">vanaf 2250,-</h5>
+                    <br>
+                    <p class="card-text" style="font-size: 22px;">De maatwerkwebsite is dé oplossing voor professionele bedrijven die maximaal resultaat uit hun website willen halen. Onze creatieve medewerkers zetten alles op alles om jouw website tot een absoluut succes te maken.</p>
+                    <div class="mt-auto">
                     <button type="button" class="my-4 btn btn-outline-primary btn-block" data-mdb-ripple-init>
                         Meer over dit pakket
                         <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -94,28 +129,6 @@
                         </svg>
                     </button>
                 </div>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <h1 style="font-weight: 700">Maatwerk</h1>
-            <div class="card h-100">
-                <div class="card-body" >
-                    <h5 class="card-title" style="font-size: 30px;font-weight:500">vanaf 2250,-</h5>
-                    <br>
-                    <p class="card-text" style="font-size: 22px;">De maatwerkwebsite is dé oplossing voor professionele bedrijven die maximaal resultaat uit hun website willen halen. Onze creatieve medewerkers zetten alles op alles om jouw website tot een absoluut succes te maken.</p>
-                    <button type="button" class="my-4 btn btn-outline-primary btn-block" data-mdb-ripple-init>
-                        Meer over dit pakket
-                        <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </button>
-                    <br>
-                    <button type="button" style="background: linear-gradient(to right, #A74AC7, #45aaf2)" class="btn btn-primary btn-block" data-mdb-ripple-init>
-                        Offerte aanvragen
-                        <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </button>
                 </div>
             </div>
         </div>
@@ -138,36 +151,36 @@
                             <svg class="" style="width: 25px; color: #A74AC7;" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m7 10 2 2 4-4m6 2a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/>
                             </svg>
-                            <span style="font-weight: 700">Zoekmachineoptimalisatie (SEO)</span>  <br>
-                            Kloon Web zorgt dat je website gevonden wordt.
+                            <span class="ms-3" style="font-weight: 700">Zoekmachineoptimalisatie (SEO)</span>  <br>
+                           <span class="ms-5">Kloon Web zorgt dat je website gevonden wordt.</span> 
                         </li>
                         <li>
                             <svg class="" style="width: 25px; color:#A74AC7" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m7 10 2 2 4-4m6 2a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/>
                             </svg>
-                            <span style="font-weight: 700">Online adverteren (SEA)</span>  <br>
-                            Wist je dat we Google Partner zijn?
+                            <span class="ms-3" style="font-weight: 700">Online adverteren (SEA)</span>  <br>
+                           <span class="ms-5">Wist je dat we Google Partner zijn?</span> 
                         </li>
                         <li>
                             <svg class="" style="width: 25px; color:#A74AC7" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m7 10 2 2 4-4m6 2a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/>
                             </svg>
-                            <span style="font-weight: 700">Conversieoptimalisatie</span> <br>
-                            Haal het maximale uit je website.
+                            <span class="ms-3" style="font-weight: 700">Conversieoptimalisatie</span> <br>
+                            <span class="ms-5">Haal het maximale uit je website.</span> 
                         </li>
                         <li>
                             <svg class="" style="width: 25px; color:#A74AC7" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m7 10 2 2 4-4m6 2a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/>
                             </svg>
-                            <span style="font-weight: 700">Het ontwerpen en vormgeven van offline diensten</span>  <br>
-                            Laat Kloon Web je logo of flyer ontwerpen.
+                            <span class="ms-3" style="font-weight: 700">Het ontwerpen en vormgeven van offline diensten</span>  <br>
+                           <span class="ms-5">Laat Kloon Web je logo of flyer ontwerpen.</span> 
                         </li>
                         <li>
                             <svg class="" style="width: 25px; color:#A74AC7" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 20">
                                 <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m7 10 2 2 4-4m6 2a9 9 0 1 1-18 0 9 9 0 0 1 18 0Z"/>
                             </svg>
-                            <span style="font-weight: 700">Sociale media</span>  <br>
-                            Kloon Web traint en ondersteunt je op al je kanalen.
+                            <span class="ms-3" style="font-weight: 700">Sociale media</span>  <br>
+                           <span class="ms-5">Kloon Web traint en ondersteunt je op al je kanalen.</span> 
                         </li>
                     </ul>
                 </p>
@@ -181,11 +194,11 @@
     <div class="row">
         <div class="col-md-6">
             <div class="">
-                <div class="card-body bg-dark">
+                <div class="card-body bg-dark" style="padding-top: 10%">
                     <h3 class="text-light" style="font-size: 40px; font-weight: 700">Meer weten over onze websitepakketten?</h3>
                     <span style="color: #A74AC7;font-size:25px">Neem vrijblijvend contact op</span>
                     <br><br>
-                    <p class="text-light" style="font-size: 20px">Wil je weten welk pakket voor jou geschikt is of heb je andere vragen? Bel of mail ons gerust, we helpen je graag</p>
+                    <p class="text-light" style="font-size: 20px">Wil je weten welk pakket voor jou geschikt is of heb je andere <br> vragen? Bel of mail ons gerust, we helpen je graag</p>
                 </div>
             </div>
         </div>

@@ -26,4 +26,8 @@ class IndexController extends Controller
     public function websites() {
         return view('websites');
     }
+
+    public function webshops() {
+        return view('webshops');
+    }
 }
