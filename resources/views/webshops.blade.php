@@ -26,7 +26,7 @@
             <div class="col-md-5">
                 <div class="card rounded-circle" style="width: 600px; height: 600px; overflow: hidden;">
                   <div class="card-body d-flex flex-column justify-content-center align-items-center">
-                    <img src="/img/programmer.jpg" alt="Circle Image" class="img-fluid" style="width: 600px; height: 600px;">
+                    <img src="https://www.zuyd.nl/binaries/content/gallery/zuyd/opleidingen/hbo-ict/ict-chatsessies-750x500.jpg/ict-chatsessies-750x500.jpg/zuyd%3Axxxxm" alt="Circle Image" class="img-fluid" style="width: 600px; height: 600px;">
                 </div>              
               </div>
             </div>
@@ -51,35 +51,70 @@
     <div class="row">
         <div class="col-md-4">
             <h1 style="font-weight: 700">Basis</h1>
-            <div class="card h-100">
-                <div class="card-body">
+            <div class="card h-100 ">
+                <div class="card-body px-4 py-5 shadow border border-primary rounded " style="">
                     <h5 class="card-title" style="font-size: 30px;font-weight:500">
                         vanaf 950,-
                     </h5>
                     <br>
                     <p class="card-text" style="font-size: 22px;">Onze BASIS-webshop is al meer dan compleet. De BASIS-webshop is een degelijke webshop waar je op professionele manier je producten online kunt verkopen. Uiteraard behoren betalingen met iDEAL en PayPal tot de standaardmogelijkheden.</p>
-                    <button type="button" class="my-4 btn btn-outline-primary btn-block" data-mdb-ripple-init>
-                        Meer over dit pakket
-                        <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </button>
-                    <button type="button" style="background: linear-gradient(to right, #A74AC7, #45aaf2)" class="btn btn-primary btn-block" data-mdb-ripple-init>
-                        Offerte aanvragen
-                        <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </button>
+                
+                    <div class="" style="margin-top: 80px">
+                        <button type="button" class="my-4 btn btn-outline-primary btn-block" data-mdb-ripple-init>
+                            Meer over dit pakket
+                            <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                            </svg>
+                        </button>
+                        <br>
+                        <button type="button" style="background: linear-gradient(to right, #A74AC7, #45aaf2)" class="btn btn-primary btn-block" data-mdb-ripple-init>
+                            Offerte aanvragen
+                            <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                            </svg>
+                        </button>
+                    </div>
+    
                 </div>
+
             </div>
         </div>
         <div class="col-md-4">
             <h1 style="font-weight: 700">Premium</h1>
             <div class="card h-100">
-                <div class="card-body" >
+                <div class="card-body px-4 py-5 shadow border border-primary rounded " >
                     <h5 class="card-title" style="font-size: 30px;font-weight:500">vanaf 1750,-</h5>
                     <br>
                     <p class="card-text" style="font-size: 22px;">Wil je meer met je webshop dan alleen producten tonen en verkopen? Wil je jouw webshop uitbreiden met diverse modules, of wil je een website met daarin een webshop? Dan is ons PREMIUM-pakket voor jou een geschikte optie.</p>
+                
+                    <div class="" style="margin-top: 32%">
+                        <button type="button" class="my-4 btn btn-outline-primary btn-block" data-mdb-ripple-init>
+                            Meer over dit pakket
+                            <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                            </svg>
+                        </button>
+                        <br>
+                        <button type="button" style="background: linear-gradient(to right, #A74AC7, #45aaf2)" class="btn btn-primary btn-block" data-mdb-ripple-init>
+                            Offerte aanvragen
+                            <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
+                                <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
+                            </svg>
+                        </button>
+                    </div>
+    
+                </div>
+
+            </div>
+        </div>
+        <div class="col-md-4">
+            <h1 style="font-weight: 700">Maatwerk</h1>
+            <div class="card h-100">
+                <div class="card-body px-4 py-5 shadow border border-primary rounded" >
+                    <h5 class="card-title" style="font-size: 30px;font-weight:500">vanaf 2750,-</h5>
+                    <br>
+                    <p class="card-text" style="font-size: 22px;">Dit pakket is er voor de ondernemer die hoge eisen stelt aan zijn webshop. Of je nu speciale wensen hebt op het gebied van design, mogelijkheden of performance: met onze MAATWERK-webshops komen we graag aan jouw wensen tegemoet. Samen bepalen we de optimale flow voor jouw onderneming.</p>
+                    <div class="mt-auto">
                     <button type="button" class="my-4 btn btn-outline-primary btn-block" data-mdb-ripple-init>
                         Meer over dit pakket
                         <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
@@ -94,28 +129,6 @@
                         </svg>
                     </button>
                 </div>
-            </div>
-        </div>
-        <div class="col-md-4">
-            <h1 style="font-weight: 700">Maatwerk</h1>
-            <div class="card h-100">
-                <div class="card-body" >
-                    <h5 class="card-title" style="font-size: 30px;font-weight:500">vanaf 2750,-</h5>
-                    <br>
-                    <p class="card-text" style="font-size: 22px;">Dit pakket is er voor de ondernemer die hoge eisen stelt aan zijn webshop. Of je nu speciale wensen hebt op het gebied van design, mogelijkheden of performance: met onze MAATWERK-webshops komen we graag aan jouw wensen tegemoet. Samen bepalen we de optimale flow voor jouw onderneming.</p>
-                    <button type="button" class="my-4 btn btn-outline-primary btn-block" data-mdb-ripple-init>
-                        Meer over dit pakket
-                        <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </button>
-                    <br>
-                    <button type="button" style="background: linear-gradient(to right, #A74AC7, #45aaf2)" class="btn btn-primary btn-block" data-mdb-ripple-init>
-                        Offerte aanvragen
-                        <svg class="text-gray-800 dark:text-white ml-4" style="width: 5%;visibility:hidden" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 14 10">
-                            <path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M1 5h12m0 0L9 1m4 4L9 9"/>
-                        </svg>
-                    </button>
                 </div>
             </div>
         </div>
@@ -296,23 +309,33 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="">
-                    <div class="card-body bg-dark">
+                    <div class="card-body bg-dark" style="padding-top: 10%">
                         <h3 class="text-light" style="font-size: 40px; font-weight: 700">Meer weten over onze websitepakketten?</h3>
                         <span style="color: #A74AC7;font-size:25px">Neem vrijblijvend contact op</span>
                         <br><br>
-                        <p class="text-light" style="font-size: 20px">Wil je weten welk pakket voor jou geschikt is of heb je andere vragen? Bel of mail ons gerust, we helpen je graag</p>
+                        <p class="text-light" style="font-size: 20px">Wil je weten welk pakket voor jou geschikt is of heb je andere <br> vragen? Bel of mail ons gerust, we helpen je graag</p>
+                        
+                        <svg class="" style="width: 4%" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18">
+                            <path stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16.344 12.168-1.4-1.4a1.98 1.98 0 0 0-2.8 0l-.7.7a1.98 1.98 0 0 1-2.8 0l-2.1-2.1a1.98 1.98 0 0 1 0-2.8l.7-.7a1.981 1.981 0 0 0 0-2.8l-1.4-1.4a1.828 1.828 0 0 0-2.8 0C-.638 5.323 1.1 9.542 4.78 13.22c3.68 3.678 7.9 5.418 11.564 1.752a1.828 1.828 0 0 0 0-2.804Z"/>
+                        </svg>
+                       <span class="text-light" style="margin-left:10px;font-size:20px">1122334455</span> 
+    
+                       <svg class="ms-5" style="width: 4%;" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 16">
+                        <path stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 2-8.4 7.05a1 1 0 0 1-1.2 0L1 2m18 0a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1m18 0v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2"/>
+                        </svg>
+                        <span class="text-light" style="margin-left:10px;font-size:20px">sales@kloonweb.com</span> 
                     </div>
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="">
-                    <img src="https://ictteamwork.nl/wp-content/uploads/2023/10/DSC01393-scaled.jpg" class="card-img-top" alt="Card Image">
+                    <img src="https://www.zuyd.nl/binaries/content/gallery/zuyd/opleidingen/hbo-ict/hbo-ict-groepje-studenten-programmeren-op-laptop-750x450.jpg/hbo-ict-groepje-studenten-programmeren-op-laptop-750x450.jpg/zuyd%3Axxxxm" class="card-img-top" alt="Card Image">
                 </div>
             </div>
         </div>
     </div>
-</div>
-    
+    </div>
+        
 
 
 <div class="container">
@@ -351,22 +374,32 @@
         <div class="row">
             <div class="col-md-6">
                 <div class="">
-                    <div class="card-body bg-dark">
-                        <h3 class="text-light" style="font-size: 40px; font-weight: 700">Meer weten over onze websitepakketten?</h3>
-                        <span style="color: #A74AC7;font-size:25px">Neem vrijblijvend contact op</span>
-                        <br><br>
-                        <p class="text-light" style="font-size: 20px">Wil je weten welk pakket voor jou geschikt is of heb je andere vragen? Bel of mail ons gerust, we helpen je graag</p>
-                    </div>
+                    <img src="https://cms-prd.cms.hva.nl/site/binaries/content/gallery/shared/opleidingen/fdmci/landscape-images/hbo-ict/hbo-ict_vt_opendag.jpg/hbo-ict_vt_opendag.jpg/hvacontentservice%3AsixteenByNineLarge" class="card-img-top" alt="Card Image">
                 </div>
             </div>
             <div class="col-md-6">
                 <div class="">
-                    <img src="https://ictteamwork.nl/wp-content/uploads/2023/10/DSC01393-scaled.jpg" class="card-img-top" alt="Card Image">
+                    <div class="card-body bg-dark" style="padding-left: 10%;padding-top: 10%">
+                        <h3 class="text-light" style="font-size: 40px; font-weight: 700">Meer weten over onze websitepakketten?</h3>
+                        <span style="color: #A74AC7;font-size:25px">Neem vrijblijvend contact op</span>
+                        <br><br>
+                        <p class="text-light" style="font-size: 20px">Wil je weten welk pakket voor jou geschikt is of heb je andere <br> vragen? Bel of mail ons gerust, we helpen je graag</p>
+                        
+                        <svg class="" style="width: 4%" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 18 18">
+                            <path stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m16.344 12.168-1.4-1.4a1.98 1.98 0 0 0-2.8 0l-.7.7a1.98 1.98 0 0 1-2.8 0l-2.1-2.1a1.98 1.98 0 0 1 0-2.8l.7-.7a1.981 1.981 0 0 0 0-2.8l-1.4-1.4a1.828 1.828 0 0 0-2.8 0C-.638 5.323 1.1 9.542 4.78 13.22c3.68 3.678 7.9 5.418 11.564 1.752a1.828 1.828 0 0 0 0-2.804Z"/>
+                        </svg>
+                       <span class="text-light" style="margin-left:10px;font-size:20px">1122334455</span> 
+    
+                       <svg class="ms-5" style="width: 4%;" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 20 16">
+                        <path stroke="white" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="m19 2-8.4 7.05a1 1 0 0 1-1.2 0L1 2m18 0a1 1 0 0 0-1-1H2a1 1 0 0 0-1 1m18 0v12a1 1 0 0 1-1 1H2a1 1 0 0 1-1-1V2"/>
+                        </svg>
+                        <span class="text-light" style="margin-left:10px;font-size:20px">sales@kloonweb.com</span> 
+                    </div>
                 </div>
             </div>
         </div>
     </div>
-</div>
+    </div>
 
 
 
@@ -412,95 +445,160 @@
 </div>
 
 
-
-<div class="container">
-    <div class="row" style="padding-top: 10%; padding-bottom: 5%">
-        <div class="col-md-6">
-            <div class="card-body">
-                <h3 class="" style="font-size: 40px; font-weight: 700">Welk website pakket je ook <br> kiest, je krijgt altijd:</h3>
-                <p>
-                    <ul class="text-dark" style="font-size: 22px; list-style: none; padding-left: 0;">
-                        <li style="margin-bottom: 10px; position: relative;">
-                            <span style="color: #A74AC7;">&#8226;</span> Professionele Hosting
-                        </li>
-                        <li style="margin-bottom: 10px; position: relative;">
-                            <span style="color: #A74AC7;">&#8226;</span> SSL Certificaat
-                        </li>
-                        <li style="margin-bottom: 10px; position: relative;">
-                            <span style="color: #A74AC7;">&#8226;</span> Support via telefoon & mail
-                        </li>
-                        <li style="margin-bottom: 10px; position: relative;">
-                            <span style="color: #A74AC7;">&#8226;</span> Backups
-                        </li>
-                        <li style="position: relative;">
-                            <span style="color: #A74AC7;">&#8226;</span> Beveiligingsupdates
-                        </li>
-                    </ul>
-              </p>
+<div>
+    <div class="container">
+        <div class="row" style="padding-top: 10%; padding-bottom: 5%">
+            <div class="col-md-4">
+                <div class="card-body">
+                    <h3 class="" style="font-size: 50px; font-weight: 700">Voorbeelden van recent geleverde websites</h3>
+                </div>
             </div>
-        </div>
-        <div class="col-md-6">
-            <div class="card-body">
-                <h3 class="" style="font-size: 40px; font-weight: 700">Persoonlijke offerte ontvangen?</h3>
-
-                <form method="POST" action="/contact" style="padding-top:5%">
-                    @csrf
-                    <div data-mdb-input-init class="form-outline mb-4">
-                        <input id="" name="bericht" class="form-control">
-                        <label class="form-label" for="">Bedrijfsnaam</label>
-                    </div>
-  
-                    <div class="row mb-4">
-                      <div class="col">
-                        <div data-mdb-input-init class="form-outline">
-                          <input type="text" id="" name="naam" class="form-control" />
-                          <label class="form-label" for="">Voornaam</label>
-                        </div>
-                      </div>
-                      <div class="col">
-                        <div data-mdb-input-init class="form-outline">
-                          <input type="text" id="" name="telefoon" class="form-control" />
-                          <label class="form-label" for="">Achternaam</label>
-                        </div>
-                      </div>
-                    </div>
-
-                    <div class="row mb-4">
-                        <div class="col">
-                          <div data-mdb-input-init class="form-outline">
-                            <input type="text" id="" name="email" class="form-control" />
-                            <label class="form-label" for="">Telefoon</label>
+            <div class="col-md-4">
+                <div class="card-body">
+                    <div id="carouselExample" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                          <div class="carousel-item active">
+                            <img src="https://ontwerpvanwouter.nl/wp-content/uploads/2018/06/Webdesign_Huisartsenpraktijk_Lichtenberch_Utrecht_Ontwerp_Van_Wouter_Barneveld.jpg" class="d-block w-100" alt="Image 1">
+                          </div>
+                          <div class="carousel-item">
+                            <img src="https://ontwerpvanwouter.nl/wp-content/uploads/2017/09/Webdesign_Onderweegs_en_de_Groot_Ontwerp_Van_Wouter_Barneveld.jpg" class="d-block w-100" alt="Image 2">
+                          </div>
+                          <div class="carousel-item">
+                            <img src="https://ontwerpvanwouter.nl/wp-content/uploads/2017/09/Webdesign_De_Valk_Wekerom_Ontwerp_Van_Wouter_Barneveld.jpg" class="d-block w-100" alt="Image 3">
                           </div>
                         </div>
-                        <div class="col">
-                          <div data-mdb-input-init class="form-outline">
-                            <input type="text" id="" name="onderwerp" class="form-control" />
-                            <label class="form-label" for="">E-mailadres</label>
+                        <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
+                      </div>
+                </div>
+            </div>
+            <div class="col-md-4">
+                <div class="card-body">
+                    <div id="carouselExample" class="carousel slide" data-ride="carousel">
+                        <div class="carousel-inner">
+                          <div class="carousel-item active">
+                            <img src="https://ontwerpvanwouter.nl/wp-content/uploads/2017/09/Webdesign_Nautasign_Ontwerp_Van_Wouter_Barneveld.jpg" class="d-block w-100" alt="Image 1">
+                          </div>
+                          <div class="carousel-item">
+                            <img src="https://ckwebsitedesign.ie/wp-content/uploads/2021/09/ck-website-design-project-of-custom-website-design-homeschool-ireland.jpg" class="d-block w-100" alt="Image 2">
+                          </div>
+                          <div class="carousel-item">
+                            <img src="https://creativeteam.nl/wp-content/uploads/2019/02/kegcoah_transparant_2.png" class="d-block w-100" alt="Image 3">
                           </div>
                         </div>
-                    </div>
-  
-                  
-                    <div data-mdb-input-init class="form-outline mb-4">
-                      <textarea id="" name="bericht" class="form-control"></textarea>
-                      <label class="form-label" for="">Vertel iets over je wensen</label>
-                    </div>
-                  
-                    <div data-mdb-input-init class="form-outline mb-4">
-                      <input type="file" id="form3Example4" class="form-control" />
-                      <label class="form-label" for="form3Example4">Bijlage</label>
-                    </div>
-                                    
-                    <!-- Submit button -->
-                    <button data-mdb-ripple-init type="submit" class="btn btn-block mb-4 text-light" style="background: linear-gradient(to right, #A74AC7, #45aaf2)">Aanvragen</button>
-                  
-                  </form>            
-
+                        <a class="carousel-control-prev" href="#carouselExample" role="button" data-slide="prev">
+                          <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Previous</span>
+                        </a>
+                        <a class="carousel-control-next" href="#carouselExample" role="button" data-slide="next">
+                          <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                          <span class="sr-only">Next</span>
+                        </a>
+                      </div>
+                </div>
             </div>
         </div>
     </div>
 </div>
 
+
+
+<div style="background-color: #DBE9FA">
+    <div class="container">
+        <div class="row" style="padding-top: 10%; padding-bottom: 5%">
+            <div class="col-md-6">
+                <div class="card-body">
+                    <h3 class="" style="font-size: 40px; font-weight: 700">Welk website pakket je ook <br> kiest, je krijgt altijd:</h3>
+                    <p>
+                        <ul class="text-dark" style="font-size: 22px; list-style: none; padding-left: 0;">
+                            <li style="margin-bottom: 10px; position: relative;">
+                                <span style="color: #A74AC7;">&#8226;</span> Professionele Hosting
+                            </li>
+                            <li style="margin-bottom: 10px; position: relative;">
+                                <span style="color: #A74AC7;">&#8226;</span> SSL Certificaat
+                            </li>
+                            <li style="margin-bottom: 10px; position: relative;">
+                                <span style="color: #A74AC7;">&#8226;</span> Support via telefoon & mail
+                            </li>
+                            <li style="margin-bottom: 10px; position: relative;">
+                                <span style="color: #A74AC7;">&#8226;</span> Backups
+                            </li>
+                            <li style="position: relative;">
+                                <span style="color: #A74AC7;">&#8226;</span> Beveiligingsupdates
+                            </li>
+                        </ul>
+                  </p>
+                </div>
+            </div>
+            <div class="col-md-6">
+                <div class="card-body">
+                    <h3 class="" style="font-size: 40px; font-weight: 700">Persoonlijke offerte ontvangen?</h3>
+    
+                    <form method="POST" action="" style="padding-top:5%">
+                        @csrf
+                        <div data-mdb-input-init class="form-outline mb-4">
+                            <input id="" name="bericht" class="form-control">
+                            <label class="form-label" for="">Bedrijfsnaam</label>
+                        </div>
+      
+                        <div class="row mb-4">
+                          <div class="col">
+                            <div data-mdb-input-init class="form-outline">
+                              <input type="text" id="" name="naam" class="form-control" />
+                              <label class="form-label" for="">Voornaam</label>
+                            </div>
+                          </div>
+                          <div class="col">
+                            <div data-mdb-input-init class="form-outline">
+                              <input type="text" id="" name="telefoon" class="form-control" />
+                              <label class="form-label" for="">Achternaam</label>
+                            </div>
+                          </div>
+                        </div>
+    
+                        <div class="row mb-4">
+                            <div class="col">
+                              <div data-mdb-input-init class="form-outline">
+                                <input type="text" id="" name="email" class="form-control" />
+                                <label class="form-label" for="">Telefoon</label>
+                              </div>
+                            </div>
+                            <div class="col">
+                              <div data-mdb-input-init class="form-outline">
+                                <input type="text" id="" name="onderwerp" class="form-control" />
+                                <label class="form-label" for="">E-mailadres</label>
+                              </div>
+                            </div>
+                        </div>
+      
+                      
+                        <div data-mdb-input-init class="form-outline mb-4">
+                          <textarea id="" name="bericht" class="form-control"></textarea>
+                          <label class="form-label" for="">Vertel iets over je wensen</label>
+                        </div>
+                      
+                        <div data-mdb-input-init class="form-outline mb-4">
+                          <input type="file" id="form3Example4" class="form-control" />
+                          <label class="form-label" for="form3Example4">Bijlage</label>
+                        </div>
+                                        
+                        <!-- Submit button -->
+                        <button data-mdb-ripple-init type="submit" class="btn btn-block mb-4 text-light" style="background: linear-gradient(to right, #A74AC7, #45aaf2)">Aanvragen</button>
+                      
+                      </form>            
+    
+                </div>
+            </div>
+        </div>
+    </div>
+    </div>
+    
 <div class="bg-dark" style="background-image: url('https://www.losning.nl/cache/243282222167993f2189adbc47434afd/6redenomictuittebestedenweb.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center; height: 500px;"></div>
 
 @endsection
